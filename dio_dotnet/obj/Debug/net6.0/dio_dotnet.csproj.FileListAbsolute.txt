@@ -1,0 +1,15 @@
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/bin/Debug/net6.0/dio_dotnet
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/bin/Debug/net6.0/dio_dotnet.deps.json
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/bin/Debug/net6.0/dio_dotnet.runtimeconfig.json
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/bin/Debug/net6.0/dio_dotnet.dll
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/bin/Debug/net6.0/dio_dotnet.pdb
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/obj/Debug/net6.0/dio_dotnet.csproj.AssemblyReference.cache
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/obj/Debug/net6.0/dio_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/obj/Debug/net6.0/dio_dotnet.AssemblyInfoInputs.cache
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/obj/Debug/net6.0/dio_dotnet.AssemblyInfo.cs
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/obj/Debug/net6.0/dio_dotnet.csproj.CoreCompileInputs.cache
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/obj/Debug/net6.0/dio_dotnet.dll
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/obj/Debug/net6.0/refint/dio_dotnet.dll
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/obj/Debug/net6.0/dio_dotnet.pdb
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/obj/Debug/net6.0/dio_dotnet.genruntimeconfig.cache
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/obj/Debug/net6.0/ref/dio_dotnet.dll

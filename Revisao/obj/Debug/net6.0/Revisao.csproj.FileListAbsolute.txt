@@ -1,0 +1,15 @@
+/home/denise/repositorios_git/dio_dotnet/Revisao/obj/Debug/net6.0/Revisao.csproj.AssemblyReference.cache
+/home/denise/repositorios_git/dio_dotnet/Revisao/obj/Debug/net6.0/Revisao.GeneratedMSBuildEditorConfig.editorconfig
+/home/denise/repositorios_git/dio_dotnet/Revisao/obj/Debug/net6.0/Revisao.AssemblyInfoInputs.cache
+/home/denise/repositorios_git/dio_dotnet/Revisao/obj/Debug/net6.0/Revisao.AssemblyInfo.cs
+/home/denise/repositorios_git/dio_dotnet/Revisao/obj/Debug/net6.0/Revisao.csproj.CoreCompileInputs.cache
+/home/denise/repositorios_git/dio_dotnet/Revisao/bin/Debug/net6.0/Revisao
+/home/denise/repositorios_git/dio_dotnet/Revisao/bin/Debug/net6.0/Revisao.deps.json
+/home/denise/repositorios_git/dio_dotnet/Revisao/bin/Debug/net6.0/Revisao.runtimeconfig.json
+/home/denise/repositorios_git/dio_dotnet/Revisao/bin/Debug/net6.0/Revisao.dll
+/home/denise/repositorios_git/dio_dotnet/Revisao/bin/Debug/net6.0/Revisao.pdb
+/home/denise/repositorios_git/dio_dotnet/Revisao/obj/Debug/net6.0/Revisao.dll
+/home/denise/repositorios_git/dio_dotnet/Revisao/obj/Debug/net6.0/refint/Revisao.dll
+/home/denise/repositorios_git/dio_dotnet/Revisao/obj/Debug/net6.0/Revisao.pdb
+/home/denise/repositorios_git/dio_dotnet/Revisao/obj/Debug/net6.0/Revisao.genruntimeconfig.cache
+/home/denise/repositorios_git/dio_dotnet/Revisao/obj/Debug/net6.0/ref/Revisao.dll
