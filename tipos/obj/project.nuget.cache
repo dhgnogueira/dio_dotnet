@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xCiToKSK5h4ynD3DlehKY1X+AnmnsjfREPg/MJB1+rrlB7lMNOizLE4qFzZFqWL4IHyM3sXzJZmp4qBtTADe4A==",
+  "dgSpecHash": "+TzBM62KBXQJoqwXK/TdNKapEAqKyJeb7QxQOHr/G2CY4cjWEk9irlv09NSpyHnpiLOiO8BK67Tg247ePHNr9Q==",
   "success": true,
-  "projectFilePath": "/home/denise/repositorios_git/dio_dotnet/tipos.csproj",
+  "projectFilePath": "/home/denise/repositorios_git/dio_dotnet/tipos/tipos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

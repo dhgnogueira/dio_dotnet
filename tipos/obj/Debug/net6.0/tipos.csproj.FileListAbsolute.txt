@@ -1,0 +1,15 @@
+/home/denise/repositorios_git/dio_dotnet/tipos/obj/Debug/net6.0/tipos.csproj.AssemblyReference.cache
+/home/denise/repositorios_git/dio_dotnet/tipos/obj/Debug/net6.0/tipos.GeneratedMSBuildEditorConfig.editorconfig
+/home/denise/repositorios_git/dio_dotnet/tipos/obj/Debug/net6.0/tipos.AssemblyInfoInputs.cache
+/home/denise/repositorios_git/dio_dotnet/tipos/obj/Debug/net6.0/tipos.AssemblyInfo.cs
+/home/denise/repositorios_git/dio_dotnet/tipos/obj/Debug/net6.0/tipos.csproj.CoreCompileInputs.cache
+/home/denise/repositorios_git/dio_dotnet/tipos/bin/Debug/net6.0/tipos
+/home/denise/repositorios_git/dio_dotnet/tipos/bin/Debug/net6.0/tipos.deps.json
+/home/denise/repositorios_git/dio_dotnet/tipos/bin/Debug/net6.0/tipos.runtimeconfig.json
+/home/denise/repositorios_git/dio_dotnet/tipos/bin/Debug/net6.0/tipos.dll
+/home/denise/repositorios_git/dio_dotnet/tipos/bin/Debug/net6.0/tipos.pdb
+/home/denise/repositorios_git/dio_dotnet/tipos/obj/Debug/net6.0/tipos.dll
+/home/denise/repositorios_git/dio_dotnet/tipos/obj/Debug/net6.0/refint/tipos.dll
+/home/denise/repositorios_git/dio_dotnet/tipos/obj/Debug/net6.0/tipos.pdb
+/home/denise/repositorios_git/dio_dotnet/tipos/obj/Debug/net6.0/tipos.genruntimeconfig.cache
+/home/denise/repositorios_git/dio_dotnet/tipos/obj/Debug/net6.0/ref/tipos.dll

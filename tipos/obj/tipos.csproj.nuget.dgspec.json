@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/denise/repositorios_git/dio_dotnet/tipos.csproj": {}
+    "/home/denise/repositorios_git/dio_dotnet/tipos/tipos.csproj": {}
   },
   "projects": {
-    "/home/denise/repositorios_git/dio_dotnet/tipos.csproj": {
+    "/home/denise/repositorios_git/dio_dotnet/tipos/tipos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/denise/repositorios_git/dio_dotnet/tipos.csproj",
+        "projectUniqueName": "/home/denise/repositorios_git/dio_dotnet/tipos/tipos.csproj",
         "projectName": "tipos",
-        "projectPath": "/home/denise/repositorios_git/dio_dotnet/tipos.csproj",
+        "projectPath": "/home/denise/repositorios_git/dio_dotnet/tipos/tipos.csproj",
         "packagesPath": "/home/denise/.nuget/packages/",
-        "outputPath": "/home/denise/repositorios_git/dio_dotnet/obj/",
+        "outputPath": "/home/denise/repositorios_git/dio_dotnet/tipos/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/denise/.nuget/NuGet/NuGet.Config"
