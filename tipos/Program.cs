@@ -1,6 +1,24 @@
 ﻿using static System.Console;
 public class Program
 {
+    static void Demo2()
+    {
+        Pessoa p1 = new Pessoa();
+        p1.Nome = "Ricardo";
+        p1.Idade = 30;
+        p1.Documento = "1234";
+        
+        
+        Pessoa p2 = p1.Clone();
+
+        TrocarNome(p1, "José");
+
+        WriteLine($@"
+        O nome de p1 é: {p1.Nome}
+        O nome de p2 é: {p2.Nome}
+        ");
+    }  
+    
     static void Demo1()
     {
         int a = 2;
@@ -17,16 +35,28 @@ public class Program
     {
         p1.Nome = NomeNovo;
     }
+    static void TrocarNome(StructPessoa p1, string nomeNovo)
+    {
+       p1.Nome = nomeNovo; 
+    }
+    
     public static void Main()
     {
-        Pessoa p1 = new Pessoa();
-        p1.Nome = "Ricardo";
-        p1.Idade = 30;
-        p1.Documento = "1234";
+       StructPessoa p1 = new StructPessoa()
+       {
+           Documento = "1234",
+           Idade =30,
+           Nome = "Ricardo"
+       };
 
-        TrocarNome(p1, "José");
+       var p2 = p1;
 
-        WriteLine($"O novo nome é: {p1.Nome}");
-    }
+       TrocarNome(p1,"João");
 
+       WriteLine($@"
+       Nome do p1 {p1.Nome},
+       Nome do p2 {p2.Nome},
+       ");
+
+       
 }
