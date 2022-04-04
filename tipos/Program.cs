@@ -1,6 +1,15 @@
 ﻿using static System.Console;
 public class Program
 {
+    static void Demo4()
+    {
+        string nome = "Ricardo";
+        TrocarNome(nome, "José");
+        WriteLine($"O novo nome é: {nome}");
+    }
+
+
+
     static void Demo3()
     {
      StructPessoa p1 = new StructPessoa
@@ -63,11 +72,24 @@ public class Program
     {
         nome = nomeNovo;  
     }
+
+    static void MudarParaImpar(int[] pares)
+
+    
+    {
+        for(int i = 0; i < pares.Length; i++)
+        {
+            pares[i] = pares[i] + 1;
+        }
+
+    }
     public static void Main()
     {
-        string nome = "Ricardo";
-    }
-    TrocarNome(nome, "José");
+      int[] pares = new int[]{0,2,4,6,8};
 
-    WriteLine($"O novo nome é: {nome}");
+      MudarParaImpar(pares);
+
+      WriteLine($"Os ímpares: {string.Join(",", pares)}");  
+
+    }
 }      
