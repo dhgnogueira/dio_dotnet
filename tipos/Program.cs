@@ -118,11 +118,11 @@ public class Program
        return -1;
     }
 
-    static bool EncontrarPessoa(List<Pessoa> pessoas, Pessoa pessoa)
+    static bool EncontrarPessoa(List<StructPessoa> pessoas, Pessoa pessoa)
     {
         foreach (var item in pessoas)
         {
-            if(item.Nome == pessoa.Nome)
+            if(item.Equals(pessoa))
             {
                 return true;
             }
@@ -143,7 +143,7 @@ public class Program
 
         WriteLine("Digite a pessoa que gostaria de localizar:");
         var nome = ReadLine();
-        var pessoa = new Pessoa(){Nome = nome};
+        var pessoa = new StructPessoa(){Nome = nome};
         var encontrado = EncontrarPessoa(pessoas, pessoa);
         if(encontrado)
         {
