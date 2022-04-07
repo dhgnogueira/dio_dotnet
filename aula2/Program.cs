@@ -1,6 +1,27 @@
 ﻿using static System.Console;
 class Aula2
 {
+    static void Demo2()
+
+    {
+        var nomes = new string[]{"José","Maria","Ricardo","Alice","Pedro"};
+
+        WriteLine($@"A lista de nomes é: 
+        {string.Join(", \n",nomes)}"
+        );
+
+        WriteLine("Digite o nome a ser substituído:");
+        var nome = ReadLine();
+        WriteLine("Digite o nome novo:");
+        var nomeNovo = ReadLine();
+
+        AlterarNome(nomes, nome, nomeNovo);
+
+        WriteLine($@"A lista de nomes alterada é: 
+        {string.Join(",\n",nomes)}
+        ");
+    }
+
     static void Demo1()
     
     {
@@ -22,6 +43,16 @@ class Aula2
             }
         }
     }
+
+    static ref string LocalizarNome(string[] nomes, string nome)
+    {
+        for(int i = 0; i < nomes.Length; i++)
+        {
+            if(nomes[i] == nome)
+                return ref nomes[i];
+        }
+        throw new Exception("Nome não encontrado!");
+    }
     static void Main()
     {
        var nomes = new string[]{"José","Maria","Ricardo","Alice","Pedro"};
@@ -35,11 +66,22 @@ class Aula2
         WriteLine("Digite o nome novo:");
         var nomeNovo = ReadLine();
         
-        AlterarNome(nomes, nome, nomeNovo);
+        ref var nomeEncontrado = ref LocalizarNome(nomes,nome);
+
+        if(!string.IsNullOrWhiteSpace(nomeEncontrado))
+        {
+            nomeEncontrado = nomeNovo;  
+            
+            WriteLine($@"A lista de nomes alterada é: 
+                {string.Join(",\n",nomes)}
+            ");
+        }        
+        else
+        {
+            WriteLine("Nome não encontrado!");
+        }
         
-        WriteLine($@"A lista de nomes alterada é: 
-        {string.Join(",\n",nomes)}
-        ");
+        
     }
 }
     
