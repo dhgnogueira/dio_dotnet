@@ -1,0 +1,15 @@
+/home/denise/repositorios_git/dio_dotnet/entradas_console/Aula2/obj/Debug/net6.0/Aula2.csproj.AssemblyReference.cache
+/home/denise/repositorios_git/dio_dotnet/entradas_console/Aula2/obj/Debug/net6.0/Aula2.GeneratedMSBuildEditorConfig.editorconfig
+/home/denise/repositorios_git/dio_dotnet/entradas_console/Aula2/obj/Debug/net6.0/Aula2.AssemblyInfoInputs.cache
+/home/denise/repositorios_git/dio_dotnet/entradas_console/Aula2/obj/Debug/net6.0/Aula2.AssemblyInfo.cs
+/home/denise/repositorios_git/dio_dotnet/entradas_console/Aula2/obj/Debug/net6.0/Aula2.csproj.CoreCompileInputs.cache
+/home/denise/repositorios_git/dio_dotnet/entradas_console/Aula2/bin/Debug/net6.0/Aula2
+/home/denise/repositorios_git/dio_dotnet/entradas_console/Aula2/bin/Debug/net6.0/Aula2.deps.json
+/home/denise/repositorios_git/dio_dotnet/entradas_console/Aula2/bin/Debug/net6.0/Aula2.runtimeconfig.json
+/home/denise/repositorios_git/dio_dotnet/entradas_console/Aula2/bin/Debug/net6.0/Aula2.dll
+/home/denise/repositorios_git/dio_dotnet/entradas_console/Aula2/bin/Debug/net6.0/Aula2.pdb
+/home/denise/repositorios_git/dio_dotnet/entradas_console/Aula2/obj/Debug/net6.0/Aula2.dll
+/home/denise/repositorios_git/dio_dotnet/entradas_console/Aula2/obj/Debug/net6.0/refint/Aula2.dll
+/home/denise/repositorios_git/dio_dotnet/entradas_console/Aula2/obj/Debug/net6.0/Aula2.pdb
+/home/denise/repositorios_git/dio_dotnet/entradas_console/Aula2/obj/Debug/net6.0/Aula2.genruntimeconfig.cache
+/home/denise/repositorios_git/dio_dotnet/entradas_console/Aula2/obj/Debug/net6.0/ref/Aula2.dll
