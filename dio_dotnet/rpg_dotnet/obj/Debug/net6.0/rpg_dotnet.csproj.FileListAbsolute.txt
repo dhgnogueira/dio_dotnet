@@ -1,0 +1,15 @@
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/rpg_dotnet/bin/Debug/net6.0/rpg_dotnet
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/rpg_dotnet/bin/Debug/net6.0/rpg_dotnet.deps.json
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/rpg_dotnet/bin/Debug/net6.0/rpg_dotnet.runtimeconfig.json
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/rpg_dotnet/bin/Debug/net6.0/rpg_dotnet.dll
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/rpg_dotnet/bin/Debug/net6.0/rpg_dotnet.pdb
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/rpg_dotnet/obj/Debug/net6.0/rpg_dotnet.csproj.AssemblyReference.cache
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/rpg_dotnet/obj/Debug/net6.0/rpg_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/rpg_dotnet/obj/Debug/net6.0/rpg_dotnet.AssemblyInfoInputs.cache
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/rpg_dotnet/obj/Debug/net6.0/rpg_dotnet.AssemblyInfo.cs
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/rpg_dotnet/obj/Debug/net6.0/rpg_dotnet.csproj.CoreCompileInputs.cache
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/rpg_dotnet/obj/Debug/net6.0/rpg_dotnet.dll
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/rpg_dotnet/obj/Debug/net6.0/refint/rpg_dotnet.dll
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/rpg_dotnet/obj/Debug/net6.0/rpg_dotnet.pdb
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/rpg_dotnet/obj/Debug/net6.0/rpg_dotnet.genruntimeconfig.cache
+/home/denise/repositorios_git/dio_dotnet/dio_dotnet/rpg_dotnet/obj/Debug/net6.0/ref/rpg_dotnet.dll
